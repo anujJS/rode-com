@@ -16,6 +16,8 @@ HTML, TAILWIND
 
 ## Demo | Netlify
 
+https://rode-com-web.netlify.app/
+
 ## Features
 
 - Mobile resposnsive
